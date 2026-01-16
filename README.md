@@ -106,7 +106,7 @@ After filtering for high-risk individuals and calculating undiagnosed proportion
   - Income level: 19.7%–21.7%  
   → No major disparities by gender, ethnicity, education, or income among high-risk individuals.
 
-Bottom line: This highlights a gap in youth-focused diabetes awareness. Quantifiable wins: Targeting under-30s could prevent countless cases, saving healthcare costs and lives.
+### Bottom line: This highlights a gap in youth-focused diabetes awareness. Quantifiable wins: Targeting under-30s could prevent countless cases, saving healthcare costs and lives.
 (For visuals, check the notebook—expandable with plots like age band bar charts.)
 ---
 ## Recommendations
