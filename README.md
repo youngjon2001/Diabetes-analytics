@@ -45,16 +45,17 @@ After filtering for high-risk individuals and calculating undiagnosed proportion
   - Under 30 years old: **27.24%** undiagnosed  
   - 50–59 years: ~19.8%  
   - 60–69 years: lowest at ~19.4%  
-  → Young adults with high risk are significantly more likely to go undiagnosed.
+  → Young adults with high risk are significantly more likely to go undiagnosed. Under-30s are undiagnosed at 27.24%—way higher than older groups (19-22%).
 
 - **Other demographics show surprising consistency**  
   - Gender: ~21% across Male/Female/Other  
   - Ethnicity: 20.5%–22.1% (very narrow range)  
   - Education level: 19.7%–22.5%  
   - Income level: 19.7%–21.7%  
-  → No major disparities by gender, ethnicity, education or income among high-risk individuals.
+  → No major disparities by gender, ethnicity, education, or income among high-risk individuals.
 
-**Bottom line**: Age (particularly being under 30) stands out as the most important factor associated with underdiagnosis in this dataset.
+**Bottom line**: This highlights a gap in youth-focused diabetes awareness. Quantifiable wins: Targeting under-30s could prevent countless cases, saving healthcare costs and lives.
+(For visuals, check the notebook—expandable with plots like age band bar charts.)
 
 ## Recommendations
 
@@ -72,7 +73,7 @@ Based directly on the analysis, here are the most important actionable recommend
   - Limited screening guidelines for younger age groups  
   - Provider awareness gaps
 
-These two recommendations represent the clearest opportunities for impact coming out of this analysis.
+These two recommendations represent the most significant opportunities for impact arising from this analysis.
 
 ## Technologies Used
 
@@ -87,3 +88,5 @@ These two recommendations represent the clearest opportunities for impact coming
 1. Clone the repository  
    ```bash
    git clone https://github.com/yourusername/diabetes-underdiagnosis-analysis.git
+2. Install dependencies
+   pip install pandas numpy matplotlib seaborn jupyter
