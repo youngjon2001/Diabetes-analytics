@@ -88,14 +88,17 @@ These two recommendations represent the most significant opportunities for impac
 1. Clone the repository  
    ```bash
    git clone https://github.com/yourusername/diabetes-underdiagnosis-analysis.git
+   
 2. Install dependencies
   ```bash
    pip install pandas numpy matplotlib seaborn jupyter
+
 3. Get the dataset
 Place diabetes_dataset.csv
+
 4. Launch Jupyter
  ```bash
-jupyter notebook
+jupyter notebook.
 
 ## **Data Source**
 
