@@ -15,16 +15,18 @@ This work is intended for data scientists, researchers, and recruiters seeking a
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Objectives](#Objectives)
+- [Dataset Description](#Dataset-Description)
+- [Key Questions Explored](#Key-Questions-Explored)
+- [Tools & Technologies](Tools-Technologies)
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
-- [Technologies Used](#technologies-used)
-- [How to Run This Project](#how-to-run-this-project)
+- [Limitations](#Limitations)
 - [Data Source](#data-source)
-- [Why This Project Stands Out](#why-this-project-stands-out)
-- [Future Work](#future-work)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [ Next Steps](#Next-Steps)
+- [ Data Source](#Data-Source)
+- [Author](#Author)
+- [License](#License)
 
 
 
@@ -69,16 +71,6 @@ The dataset contains individual-level health, lifestyle, and clinical variables,
 - Are there data quality or measurement issues that could bias downstream modeling?
 ---
 
----
-
-## Key Questions Explored
-- How does diabetes prevalence and severity vary by **age, gender, ethnicity, and socioeconomic status**?
-- Are there groups with **high metabolic risk but low diagnosis rates**?
-- How do lifestyle behaviors differ across diabetes stages?
-- Which variables show strong associations with diabetes risk and diagnosis?
-- Are there data quality issues that could bias downstream modeling?
-
----
 
 ## Tools & Technologies
 - Python
@@ -155,9 +147,9 @@ Note: This is a synthetic/realistic dataset used for educational & demonstration
 ---
 ### Author
 
-Joseph
+Joseph Innocent 
 Data Analyst | Medical Laboratory Scientist. 
-Focused on applied health analytics and decision-support systems
+- Focused on applied health analytics and decision-support systems
 --- 
 ### License
 
