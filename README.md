@@ -89,4 +89,17 @@ These two recommendations represent the most significant opportunities for impac
    ```bash
    git clone https://github.com/yourusername/diabetes-underdiagnosis-analysis.git
 2. Install dependencies
+  ```bash
    pip install pandas numpy matplotlib seaborn jupyter
+3. Get the dataset
+Place diabetes_dataset.csv
+4. Launch Jupyter
+ ```bash
+jupyter notebook
+
+## **Data Source**
+
+- File: diabetes_dataset.csv
+- Features: 31 columns (demographics, biometrics, lab results, lifestyle, risk scores)
+- Target: diagnosed_diabetes (0/1)
+Note: This is a synthetic/realistic dataset used for educational & demonstration purposes.
